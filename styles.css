@@ -13,6 +13,9 @@ h1{
   font-style: oblique;
   text-decoration: underline;
 }
+.sides{
+  text-align: center;
+}
 .images{
   padding-top: 350px;
 
@@ -29,5 +32,5 @@ h1{
 .scalen{
   position: absolute;
   right:20px;
-  bottom:20px;
+
 }
