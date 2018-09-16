@@ -2,3 +2,21 @@ body{
   background-color: black;
   background-size: cover;
 }
+.images{
+  padding-top: 350px;
+
+}
+.Equilaterol{
+  position: absolute;
+  margin-left: 20px;
+  padding-right: 20px;
+}
+.Isosceles{
+  position: absolute;
+  right: 650px;
+}
+.scalen{
+  position: absolute;
+  right:20px;
+  bottom:20px;
+}
