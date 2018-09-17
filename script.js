@@ -6,6 +6,7 @@ var side3 = document.getElementById("threesides[2]").value;
 if(side1===side2 && side2===side3 && side1===side3){
 output.innerHTML=("It is an Equilateral Triangle")
 }
+
 else if(side1===side2 && side1!==side3 || side1===side3 && side1!==side2 || side2===side3 && side2!==side1){
 output.innerHTML=("It is an Isosceles Triangle")
 }
